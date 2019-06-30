@@ -1,0 +1,7 @@
+C:\Users\MeMe\source\repos\OddSum\OddSum\bin\Debug\OddSum.exe.config
+C:\Users\MeMe\source\repos\OddSum\OddSum\bin\Debug\OddSum.exe
+C:\Users\MeMe\source\repos\OddSum\OddSum\bin\Debug\OddSum.pdb
+C:\Users\MeMe\source\repos\OddSum\OddSum\obj\Debug\OddSum.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\OddSum\OddSum\obj\Debug\OddSum.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\OddSum\OddSum\obj\Debug\OddSum.exe
+C:\Users\MeMe\source\repos\OddSum\OddSum\obj\Debug\OddSum.pdb
