@@ -23,6 +23,14 @@ namespace Survey
             {
                 Console.WriteLine("You are an Aries.");
             }
+            else if(month == "april")
+            {
+                Console.WriteLine("you are a Taurus.");
+            }
+            else if(month == "may")
+            {
+                Console.WriteLine("you are a Gemini");
+            }
         }
     }
 }
