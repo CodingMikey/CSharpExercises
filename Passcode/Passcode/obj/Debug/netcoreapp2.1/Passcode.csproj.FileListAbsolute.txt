@@ -1,0 +1,10 @@
+C:\Users\MeMe\source\repos\Passcode\Passcode\bin\Debug\netcoreapp2.1\Passcode.deps.json
+C:\Users\MeMe\source\repos\Passcode\Passcode\bin\Debug\netcoreapp2.1\Passcode.runtimeconfig.json
+C:\Users\MeMe\source\repos\Passcode\Passcode\bin\Debug\netcoreapp2.1\Passcode.runtimeconfig.dev.json
+C:\Users\MeMe\source\repos\Passcode\Passcode\bin\Debug\netcoreapp2.1\Passcode.dll
+C:\Users\MeMe\source\repos\Passcode\Passcode\bin\Debug\netcoreapp2.1\Passcode.pdb
+C:\Users\MeMe\source\repos\Passcode\Passcode\obj\Debug\netcoreapp2.1\Passcode.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\Passcode\Passcode\obj\Debug\netcoreapp2.1\Passcode.AssemblyInfoInputs.cache
+C:\Users\MeMe\source\repos\Passcode\Passcode\obj\Debug\netcoreapp2.1\Passcode.AssemblyInfo.cs
+C:\Users\MeMe\source\repos\Passcode\Passcode\obj\Debug\netcoreapp2.1\Passcode.dll
+C:\Users\MeMe\source\repos\Passcode\Passcode\obj\Debug\netcoreapp2.1\Passcode.pdb
