@@ -1,0 +1,10 @@
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp2.1\ForLoop.deps.json
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp2.1\ForLoop.runtimeconfig.json
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp2.1\ForLoop.runtimeconfig.dev.json
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp2.1\ForLoop.dll
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp2.1\ForLoop.pdb
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp2.1\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp2.1\ForLoop.AssemblyInfoInputs.cache
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp2.1\ForLoop.AssemblyInfo.cs
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp2.1\ForLoop.dll
+C:\Users\MeMe\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp2.1\ForLoop.pdb
