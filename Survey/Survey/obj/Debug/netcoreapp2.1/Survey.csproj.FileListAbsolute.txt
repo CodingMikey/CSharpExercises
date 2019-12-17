@@ -1,0 +1,11 @@
+C:\Users\MeMe\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.deps.json
+C:\Users\MeMe\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.runtimeconfig.json
+C:\Users\MeMe\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.runtimeconfig.dev.json
+C:\Users\MeMe\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.dll
+C:\Users\MeMe\source\repos\Survey\Survey\bin\Debug\netcoreapp2.1\Survey.pdb
+C:\Users\MeMe\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.AssemblyInfoInputs.cache
+C:\Users\MeMe\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.AssemblyInfo.cs
+C:\Users\MeMe\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.dll
+C:\Users\MeMe\source\repos\Survey\Survey\obj\Debug\netcoreapp2.1\Survey.pdb
