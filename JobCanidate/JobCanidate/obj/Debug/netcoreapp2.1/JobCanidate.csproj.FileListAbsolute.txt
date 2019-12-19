@@ -1,0 +1,11 @@
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\bin\Debug\netcoreapp2.1\JobCanidate.deps.json
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\bin\Debug\netcoreapp2.1\JobCanidate.runtimeconfig.json
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\bin\Debug\netcoreapp2.1\JobCanidate.runtimeconfig.dev.json
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\bin\Debug\netcoreapp2.1\JobCanidate.dll
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\bin\Debug\netcoreapp2.1\JobCanidate.pdb
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\obj\Debug\netcoreapp2.1\JobCanidate.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\obj\Debug\netcoreapp2.1\JobCanidate.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\obj\Debug\netcoreapp2.1\JobCanidate.AssemblyInfoInputs.cache
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\obj\Debug\netcoreapp2.1\JobCanidate.AssemblyInfo.cs
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\obj\Debug\netcoreapp2.1\JobCanidate.dll
+C:\Users\MeMe\source\repos\JobCanidate\JobCanidate\obj\Debug\netcoreapp2.1\JobCanidate.pdb
