@@ -12,6 +12,7 @@ namespace SchoolTracker
         //Student properties for the school tracker. Inheriting the rest of properties from Member class
         public int Grade;
         public string Birthday;
+        public int School;
         
         public Student()
         {
