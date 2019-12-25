@@ -9,7 +9,7 @@ namespace SchoolTracker
         //Used to keep track of how many students are added to the tracker
         static public int Count = 0;
 
-        //Student properties for the school tracker
+        //Student properties for the school tracker. Inheriting the rest of properties from Member class
         public int Grade;
         public string Birthday;
         

@@ -9,13 +9,13 @@ namespace SchoolTracker
         {
             //Creating a new list using the Student class and its properties
             var students = new List<Student>();
-            
+
             //Setting the default value to true 
             var adding = true;
 
             while (adding)
             {
-                //Instantiating a new student object to access its properties
+                //Instantiating a new student object to access and assign its properties
                 var newStudent = new Student
                 {
                     Name = Util.Console.Ask("Student Name: "),
@@ -46,7 +46,7 @@ namespace SchoolTracker
 
         static void Import()
         {
-
+           
         }
     }
 }
