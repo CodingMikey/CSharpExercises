@@ -6,35 +6,26 @@ namespace Survey
     {
         static void Main(string[] args)
         {
+            //Creating a new data object
+            var data = new Data();
+
+            //Asking for user input then setting the data properties
             Console.WriteLine("What is your name?");
-            var name = TryAnswer();
+            data.Name = TryAnswer();
 
             Console.WriteLine("What is your age?");
-            var age = TryAnswer();
+            data.Age = int.Parse(TryAnswer());
 
             Console.WriteLine("What month were you born?");
-            var month = TryAnswer();
+            data.Month = TryAnswer();
 
-            Console.WriteLine("Your name is: {0}", name);
-            Console.WriteLine("Your age is: {0}", age);
-            Console.WriteLine("Your birth month is: {0}", month);
+            //Calling the function that was created in Data class to show users info
+            data.Display();
 
-            if(month == "march")
-            {
-                Console.WriteLine("You are an Aries.");
-            }
-            else if(month == "april")
-            {
-                Console.WriteLine("you are a Taurus.");
-            }
-            else if(month == "may")
-            {
-                Console.WriteLine("you are a Gemini");
-            }
-            Console.ReadLine();
+            
         }
 
-        //Creating a function that returns a value and writes try again if user didn't type anything
+        //Creating a method that returns a value and writes try again if user didn't type anything
         static string TryAnswer()
         {
             var answer = Console.ReadLine();
