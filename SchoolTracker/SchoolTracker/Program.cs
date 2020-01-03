@@ -3,9 +3,17 @@ using System.Collections.Generic;
 
 namespace SchoolTracker
 {
+    enum School
+    {
+        ReedCollege = 0,
+        PSU = 1,
+        OSU = 2
+
+    }
+
     class Program
     {
-        //Creating a new list using the Student class and its properties
+        //Creating a new list using the Student class and its properties. Placing outside of main to be avialble anywhere in app
         static List<Student> students = new List<Student>();
 
         static void Main(string[] args)
@@ -59,6 +67,7 @@ namespace SchoolTracker
             {
                 Console.WriteLine("Name: {0}, Grade: {1}", student.Name, student.Grade);
             }
+            //Calling the export method to display what schools will get records
             Exports();
         }
 
@@ -69,6 +78,7 @@ namespace SchoolTracker
 
         }
 
+        //Whatever school the user selects the switch statement below will highlight what school gets the records
         static void Exports()
         {
             foreach (var student in students)
