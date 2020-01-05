@@ -3,11 +3,12 @@ using System.Collections.Generic;
 
 namespace SchoolTracker
 {
+    //School list in enum
     enum School
     {
-        ReedCollege = 0,
-        PSU = 1,
-        OSU = 2
+        ReedCollege,
+        PSU,
+        OSU 
 
     }
 
@@ -32,7 +33,7 @@ namespace SchoolTracker
                     {
                         Name = Util.Console.Ask("Student Name: "),
                         Grade = Util.Console.AskInt("Student Grade: "),
-                        School = Util.Console.AskInt("School name (type corresponding number): \n 0: Reed College \n 1: PSU \n 2: OSU \n"),
+                        School = (School) Util.Console.AskInt("School name (type corresponding number): \n 0: Reed College \n 1: PSU \n 2: OSU \n"),
                         Birthday = Util.Console.Ask("Student Birthday: "),
                         Address = Util.Console.Ask("Student Address: "),
                         Phone = Util.Console.AskInt("Student Phone: ")
@@ -85,13 +86,13 @@ namespace SchoolTracker
             {
                 switch (student.School)
                 {
-                    case 0:
+                    case School.ReedCollege:
                         Console.WriteLine("Exporting to Reed College");
                             break;
-                    case 1:
+                    case School.PSU:
                         Console.WriteLine("Exporting to PSU");
                             break;
-                    case 2:
+                    case School.OSU:
                         Console.WriteLine("Exporting OSU");
                             break;
                             
