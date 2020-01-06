@@ -19,7 +19,8 @@ namespace SchoolTracker
 
         static void Main(string[] args)
         {
-            
+            PayRoll payroll = new PayRoll();
+            payroll.PayAll();
 
             //Setting the default value to true 
             var adding = true;

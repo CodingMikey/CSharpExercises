@@ -4,13 +4,11 @@ using System.Text;
 
 namespace SchoolTracker
 {
-    class Teacher : Member, IPayee
+    class Principal : Member, IPayee
     {
-        public string Subject;
-
         public void Pay()
         {
-            Console.WriteLine("Paying teacher");
+            Console.WriteLine("Paying principal");
         }
     }
 }

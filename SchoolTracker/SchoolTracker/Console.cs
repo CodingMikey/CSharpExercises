@@ -14,6 +14,14 @@ namespace Util
             return System.Console.ReadLine();
         }
 
+        //Overloading the method above 
+        static public string Ask(int question)
+        {
+            //Since we changed the namespace we have to enter System to access some features below
+            System.Console.Write(question);
+            return System.Console.ReadLine();
+        }
+
         //Creating an ASK method that parses a string into a integer 
         static public int AskInt(string question)
         {
