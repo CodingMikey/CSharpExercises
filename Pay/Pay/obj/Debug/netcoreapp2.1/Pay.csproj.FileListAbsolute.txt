@@ -1,0 +1,11 @@
+C:\Users\MeMe\source\repos\Pay\Pay\bin\Debug\netcoreapp2.1\Pay.deps.json
+C:\Users\MeMe\source\repos\Pay\Pay\bin\Debug\netcoreapp2.1\Pay.runtimeconfig.json
+C:\Users\MeMe\source\repos\Pay\Pay\bin\Debug\netcoreapp2.1\Pay.runtimeconfig.dev.json
+C:\Users\MeMe\source\repos\Pay\Pay\bin\Debug\netcoreapp2.1\Pay.dll
+C:\Users\MeMe\source\repos\Pay\Pay\bin\Debug\netcoreapp2.1\Pay.pdb
+C:\Users\MeMe\source\repos\Pay\Pay\obj\Debug\netcoreapp2.1\Pay.csprojAssemblyReference.cache
+C:\Users\MeMe\source\repos\Pay\Pay\obj\Debug\netcoreapp2.1\Pay.csproj.CoreCompileInputs.cache
+C:\Users\MeMe\source\repos\Pay\Pay\obj\Debug\netcoreapp2.1\Pay.AssemblyInfoInputs.cache
+C:\Users\MeMe\source\repos\Pay\Pay\obj\Debug\netcoreapp2.1\Pay.AssemblyInfo.cs
+C:\Users\MeMe\source\repos\Pay\Pay\obj\Debug\netcoreapp2.1\Pay.dll
+C:\Users\MeMe\source\repos\Pay\Pay\obj\Debug\netcoreapp2.1\Pay.pdb
