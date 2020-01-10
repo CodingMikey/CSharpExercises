@@ -20,7 +20,7 @@ namespace Pay
                 (Stops * 18.50) +
                 (Superstops * 32) +
                 (Miles * 0.49) +
-                (Delay * 20) +
+                (Delay * 22) +
                 (Inspection * 18.50) +
                 (Meals * 25) +
                 (Pallets * 1);
