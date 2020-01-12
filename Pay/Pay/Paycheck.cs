@@ -13,6 +13,7 @@ namespace Pay
         public double Inspection { get; set; }
         public double Meals { get; set; }
         public double Pallets { get; set; }
+        public double Layover { get; set; }
 
         public void Calculate()
         {
@@ -23,8 +24,9 @@ namespace Pay
                 (Delay * 22) +
                 (Inspection * 18.50) +
                 (Meals * 25) +
-                (Pallets * 1);
-            Console.WriteLine($"You made: ${total}");
+                (Pallets * 1) +
+                (Layover * 35);
+            Console.WriteLine($"This trip paid: ${total}");
             Console.Read();
         }
     }

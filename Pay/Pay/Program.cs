@@ -17,7 +17,8 @@ namespace Pay
                 Delay = Util.Console.AskInt("Delay: "),
                 Inspection = Util.Console.AskInt("Inspections: "),
                 Meals = Util.Console.AskInt("Meals: "),
-                Pallets = Util.Console.AskInt("Pallets: ")
+                Pallets = Util.Console.AskInt("Pallets: "),
+                Layover = Util.Console.AskInt("Layovers: ")
             };
              paycheck.Calculate();
         }
