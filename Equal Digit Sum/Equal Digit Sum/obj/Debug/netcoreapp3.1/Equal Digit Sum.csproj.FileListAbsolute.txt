@@ -1,0 +1,10 @@
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\bin\Debug\netcoreapp3.1\Equal Digit Sum.exe
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\bin\Debug\netcoreapp3.1\Equal Digit Sum.deps.json
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\bin\Debug\netcoreapp3.1\Equal Digit Sum.runtimeconfig.json
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\bin\Debug\netcoreapp3.1\Equal Digit Sum.runtimeconfig.dev.json
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\bin\Debug\netcoreapp3.1\Equal Digit Sum.dll
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\bin\Debug\netcoreapp3.1\Equal Digit Sum.pdb
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\obj\Debug\netcoreapp3.1\Equal Digit Sum.AssemblyInfoInputs.cache
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\obj\Debug\netcoreapp3.1\Equal Digit Sum.AssemblyInfo.cs
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\obj\Debug\netcoreapp3.1\Equal Digit Sum.dll
+C:\Users\mgala\source\repos\Equal Digit Sum\Equal Digit Sum\obj\Debug\netcoreapp3.1\Equal Digit Sum.pdb
